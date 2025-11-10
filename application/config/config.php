@@ -24,7 +24,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |
 */
 $config['base_url'] = '';
-// $config['base_url'] = 'http://88.99.213.58/nw_solar/';
+// $config['base_url'] = '';
 
 /*
 |--------------------------------------------------------------------------
